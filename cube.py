@@ -2,4 +2,4 @@ i = 1
 
 while i <= 30:
     print(i**3)
-    i += 1
+    i = i + 1
